@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node --watch api/server.js"
+  },
+  "type": "module",
+  "name": "lista",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
